@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [English Learners](https://www.youtube.com/@englishlearnersyt)
 
-- 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech**
+- 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech | BPPIMT '25**
 
 - 👯 I’m looking to collaborate on **a start-up project.**
 
