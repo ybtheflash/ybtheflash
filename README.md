@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yubaraj</h1>
+<h1 align="center">Heya ⚡, I'm Yubaraj</h1>
 <h3 align="center">A passionate Full Stack Developer | Content Creator | Gamer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflasg&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflasg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
 - 🔭 I’m currently working on [English Learners](https://www.youtube.com/@englishlearnersyt)
 
-- 🌱 Current pursuing **Computer Science Engineering | B.Tech**
+- 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech**
 
 - 👯 I’m looking to collaborate on **a start-up project.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ybtheflash@gmail.com**
 
-- ⚡ Fun fact **I love playing games, especially VALORANT.**
+- 🎮 Fun fact **I love playing games, especially VALORANT.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
