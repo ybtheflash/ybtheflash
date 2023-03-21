@@ -1,5 +1,5 @@
 <h1 align="center">Heya ⚡, I'm Yubaraj</h1>
-<h3 align="center">A passionate Full Stack Developer | Content Creator | Gamer from India!</h3>
+<h3 align="center">Currently, a passionate LAMP Stack Developer | Content Creator | Gamer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
