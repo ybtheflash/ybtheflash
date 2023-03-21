@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ybtheflash@gmail.com**
 
-- 🎮 Fun fact **I love playing games, especially VALORANT.**
+- 🎮 Fun fact~ **I love playing games, especially VALORANT. I also love Dark Humour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
