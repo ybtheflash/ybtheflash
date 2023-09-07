@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a start-up project.**
 
-- 👨‍💻 All of my projects are available at ["Under Maintenance"]("Under Maintenance")
+- 👨‍💻 All of my projects are available at ybtheflash.github.io/repo_name.
 
 - 📫 How to reach me **ybtheflash@gmail.com**
 
