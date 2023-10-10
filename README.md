@@ -7,13 +7,13 @@
 
 - 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech | BPPIMT '25**
 
-- 👯 I’m looking to collaborate on **a start-up project** & I'm open to **Remote Internships / Jobs**.
+- 👯 I’m looking to collaborate on **a Start-up Project** & I'm open to **Remote Internships / Jobs**.
 
-- 👨‍💻 Most of my projects are available at ybtheflash.github.io/repo_name.
+- 👨‍💻 Most of my projects are available at *ybtheflash.github.io/repo_name*.
 
 - 📫 You can reach me at: **ybtheflash@gmail.com**
 
-- 🎮 Fun fact~ **I love playing games, especially VALORANT. Also, who doesn't love Anime and Dark Humour?**
+- 🎮 I love playing games, especially **VALORANT**. Also, who doesn't love Anime and Dark Humour?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
