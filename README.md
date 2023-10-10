@@ -1,5 +1,5 @@
 <h1 align="center">Heya ⚡, I'm Yubaraj</h1>
-<h3 align="center">Currently, a passionate LAMP Stack Developer | Content Creator | Gamer from India!</h3>
+<h3 align="center">Currently, a passionate Freelance LAMP Stack Developer | Content Creator | Gamer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech | BPPIMT '25**
 
-- 👯 I’m looking to collaborate on **a start-up project.**
+- 👯 I’m looking to collaborate on **a start-up project** & I'm open to **Remote Internships / Jobs**.
 
-- 👨‍💻 All of my projects are available at ybtheflash.github.io/repo_name.
+- 👨‍💻 Most of my projects are available at ybtheflash.github.io/repo_name.
 
-- 📫 How to reach me **ybtheflash@gmail.com**
+- 📫 You can reach me at: **ybtheflash@gmail.com**
 
 - 🎮 Fun fact~ **I love playing games, especially VALORANT. Also, who doesn't love Anime and Dark Humour?**
 
