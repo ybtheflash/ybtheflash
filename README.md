@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
-- 🔭 I’m currently working on [English Learners](https://www.youtube.com/@englishlearnersyt) | [myenglishlearners.in](https://myenglishlearners.in) as a Web Dev. &amp; Content Creator, &amp; also my gaming organization <a style="color:#FF0000;" href="https://xebit.cloud" target="_blank" rel="noreferrer noopener"><strong>XEBIT</strong></a>&nbsp;| [<a href="https://www.instagram.com/xebitofficial/" target="_blank" rel="noreferrer noopener">IG: @xebitofficial</a>].
+- 🔭 I’m currently working on [English Learners](https://www.youtube.com/@englishlearnersyt) | [myenglishlearners.in](https://myenglishlearners.in) as a Web Dev. &amp; Content Creator.
+- 🎯 My gaming organization <a style="color:#FF0000;" href="https://xebit.cloud" target="_blank" rel="noreferrer noopener"><strong>XEBIT</strong></a>&nbsp;| [<a href="https://www.instagram.com/xebitofficial/" target="_blank" rel="noreferrer noopener"> IG: @xebitofficial</a> ].
 
 - 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech | BPPIMT '25**
 
