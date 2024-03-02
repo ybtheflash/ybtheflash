@@ -30,8 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><span>UPI ID:&nbsp;</span><strong style="color:#800080;font-size:0.9375rem;">ybtheflash@slice&nbsp;</strong><strong style="font-size:0.9375rem;">[ OR&nbsp;<a href="https://pay.upilink.in/pay/ybtheflash@slice" target="_blank" rel="noreferrer noopener">Click Here</a>&nbsp;]</strong></p>
-OR
-<br>
 <p><a href="https://www.buymeacoffee.com/ybtheflash"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ybtheflash" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtheflash&show_icons=true&locale=en&layout=compact" alt="ybtheflash" /></p>
