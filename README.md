@@ -14,7 +14,7 @@
 - 📫 You can reach me at: **ybtheflash@gmail.com**
 
 - 🎮 I love playing games, especially **VALORANT**. Also, who doesn't love Anime and Dark Humour?
-<br>-&nbsp;🧭 Upcoming projects: <strong><a style="color:#008000;" href="https://afterlyf.app/" target="_blank" rel="noreferrer noopener">AfterLyf</a></strong> &amp; <strong><a style="color:#FF00FF;" href="https://playy.social/" target="_blank" rel="noreferrer noopener">PlayySocial</a>.</strong><br><br>
+- 🧭 Upcoming projects: <strong><a style="color:#008000;" href="https://afterlyf.app/" target="_blank" rel="noreferrer noopener">AfterLyf</a></strong> &amp; <strong><a style="color:#FF00FF;" href="https://playy.social/" target="_blank" rel="noreferrer noopener">PlayySocial</a>.</strong><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
