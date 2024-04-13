@@ -1,5 +1,5 @@
 <h1 align="center">Heya ⚡, I'm Yubaraj</h1>
-<h3 align="center">Currently, a passionate Freelance LAMP Stack Developer | Content Creator | Gamer from India!</h3>
+<h3 align="center">Currently, a passionate Full-Stack Developer | Content Creator | Gamer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 Most of my projects are available at *ybtheflash.github.io/repo_name*.
 
-- 📫 You can reach me at: **ybtheflash@gmail.com**
+- 📫 You can reach me at my mail: **[Click Here](mailto:ybtheflash@gmail.com)**
 
 - 🎮 I love playing games, especially **VALORANT**. Also, who doesn't love Anime and Dark Humour?
 - 🧭 Upcoming projects: <strong><a style="color:#008000;" href="https://afterlyf.app/" target="_blank" rel="noreferrer noopener">AfterLyf</a></strong> &amp; <strong><a style="color:#FF00FF;" href="https://playy.social/" target="_blank" rel="noreferrer noopener">PlayySocial</a>.</strong><br><br>
