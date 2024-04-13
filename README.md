@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
 <h4 align="left">My current projects 🔭:</h3>
-- **[Youpi](https://github.com/ybtheflash/youpi/releases/tag/1.0.0)** - A React Native project that generates custom QR Codes through UPI IDs, amount, and payee names. It has Android and web versions.
-- **[Qwik2Do](https://github.com/ybtheflash/qwik2do)** - Your go-to app for managing tasks efficiently and staying organized. Built using Next.js, Firebase, and hosted on Vercel for a seamless experience.
-- **[PlayPal](https://playpal.infinityfreeapp.com/)** - A full-stack library management system (PHP) with different roles, hosting CDs and DVDs, issuing and renewing systems, and generating reports.
-- **[XEBIT](https://xebit.cloud)** - A static website with a modern-styled UI introducing an esports team.
+- **[Youpi](https://github.com/ybtheflash/youpi/releases/tag/1.0.0)** - A React Native project that generates custom QR Codes through UPI IDs, amount, and payee names. It has Android and web versions.<br>
+- **[Qwik2Do](https://github.com/ybtheflash/qwik2do)** - Your go-to app for managing tasks efficiently and staying organized. Built using Next.js, Firebase, and hosted on Vercel for a seamless experience.<br>
+- **[PlayPal](https://playpal.infinityfreeapp.com/)** - A full-stack library management system (PHP) with different roles, hosting CDs and DVDs, issuing and renewing systems, and generating reports.<br>
+- **[XEBIT](https://xebit.cloud)** - A static website with a modern-styled UI introducing an esports team.<br>
 
 - 🎯 My gaming organization <a style="color:#FF0000;" href="https://xebit.cloud" target="_blank" rel="noreferrer noopener"><strong>XEBIT</strong></a>&nbsp;| [<a href="https://www.instagram.com/xebitofficial/" target="_blank" rel="noreferrer noopener"> IG: @xebitofficial</a> ].
 
