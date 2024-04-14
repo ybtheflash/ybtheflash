@@ -1,4 +1,4 @@
-<h1 align="center">Heya <img src="https://github.com/ybtheflash/ybtheflash/blob/main/flash.gif?raw=true" alt="Flash GIF" style="vertical-align:middle; width: 50px; height: 50px;">, I'm Yubaraj</h1>
+<h1 align="center">Heya <img src="https://github.com/ybtheflash/ybtheflash/blob/main/flash.gif?raw=true" alt="Flash GIF" style="vertical-align:middle; width: 30px; height: 30px;">, I'm Yubaraj</h1>
 
 <h3 align="center">Currently, a passionate Full-Stack Developer | Content Creator | Gamer from India!</h3>
 
