@@ -1,4 +1,5 @@
-<h1 align="center">Heya ⚡, I'm Yubaraj</h1>
+<h1 align="center">Heya <img src="https://github.com/ybtheflash/ybtheflash/blob/main/flash.gif?raw=true" alt="Flash GIF" style="vertical-align:middle; width: 50px; height: 50px;">, I'm Yubaraj</h1>
+
 <h3 align="center">Currently, a passionate Full-Stack Developer | Content Creator | Gamer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
