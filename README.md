@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **a Start-up Project** & I'm open to **Remote Internships / Jobs**.
 
-- 👨‍💻 Most of my projects are available at *ybtheflash.github.io/repo_name*.
+- 👨‍💻 Most of my projects are available at *github.com/ybtheflash/repo_name*.
 
 - 📫 You can reach me at my mail: **[Click Here](mailto:ybtheflash@gmail.com)**
 
