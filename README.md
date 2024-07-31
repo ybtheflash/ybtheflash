@@ -14,7 +14,7 @@
 
 - 👨‍🎓 Current pursuing **Computer Science Engineering | B.Tech | BPPIMT '25**
 
-- 👯 I’m looking to collaborate on **a Start-up Project** & I'm open to **Remote Internships / Jobs**.
+- 👯 I’m looking to collaborate on **a Start-up Project** & I'm open to **WFH/WFO Jobs**.
 
 - 👨‍💻 Most of my projects are available at *github.com/ybtheflash/repo_name*.
 
