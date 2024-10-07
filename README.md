@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
 <h4 align="left">My current projects 🔭:</h3>
-- <a href="https://github.com/ybtheflash/youpi/releases/tag/1.0.0">YOUPI</a> - A React Native project that generates custom QR Codes through UPI IDs, amount, and payee names. It has Android and web versions.<br>
+- <a href="https://ybtheflash.github.io/youpi/">YOUPI</a> - A React Native project that generates custom QR Codes through UPI IDs, amount, and payee names. It has Android and web versions.<br>
 - <a href="https://github.com/ybtheflash/qwik2do">Qwik2Do</a> - Your go-to app for managing tasks efficiently and staying organized. Built using Next.js, Firebase, and hosted on Vercel for a seamless experience.<br>
 - <a href="https://playpal.infinityfreeapp.com/">PlayPal</a> - A full-stack library management system (PHP) with different roles, hosting CDs and DVDs, issuing and renewing systems, and generating reports.<br>
 - <a href="https://xebit.pages.dev">XEBIT</a> - A static website with a modern-styled UI introducing an esports team.<br>
