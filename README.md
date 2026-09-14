@@ -39,5 +39,3 @@
 <h3 align="left">Support:</h3>
 <p><span>Donation Link:&nbsp;</span><strong style="color:#800080;font-size:0.9375rem;"><a href="https://pay.ybtheflash.in" target="_blank">pay.ybtheflash.in</a></strong></p><br>
 <p><a href="https://www.buymeacoffee.com/ybtheflash"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ybtheflash" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybtheflash&show_icons=true&locale=en&layout=compact" alt="ybtheflash" /></p>
