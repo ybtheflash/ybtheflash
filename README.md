@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ybtheflash&label=Profile%20views&color=0e75b6&style=flat" alt="ybtheflash" /> </p>
 
 <h4 align="left">My current projects 🔭:</h4>
-- <a href="https://otterspeak.com/">OtterSpeak</a> - Currently building and scaling this platform.<br>
+- <a href="https://hello.otterspeak.com/">OtterSpeak</a> - Currently building world's best AI RSVP reading platform.<br>
 - <a href="https://notokens.co/">No Tokens</a> - Part of the team building modern solutions at No Tokens.<br>
 - <a href="https://github.com/ybtheflash/qwik2do">Qwik2Do</a> - Your go-to app for managing tasks efficiently and staying organized. Built using Next.js, Firebase, and hosted on Vercel for a seamless experience.<br>
 - <a href="https://xebit.pages.dev">XEBIT</a> - A static website with a modern-styled UI introducing an esports team.<br>
